@@ -2,7 +2,8 @@
 大一下学期bootstrap课程设计
 
 ## 提示：
-- 这个是前端框架bootstrap，没有JavaScript。想看到更多炫酷，以及更好的交互效果请到[]()
+- 这个是前端框架bootstrap，没有JavaScript。想看到更多炫酷以及更好的交互效果请转到下面链接
+- [https://github.com/adamli520/JavaScript-CourseDesign](https://github.com/adamli520/JavaScript-CourseDesign)
 
 ## 感谢：
 - 阿里巴巴图标库: https://www.iconfont.cn/
